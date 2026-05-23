@@ -25,3 +25,8 @@ If you find any harmful or malicious plugins, please report them by opening an i
 
 ## Notice
 This repository and Stremio Enhanced are not affiliated in any way with Stremio.
+
+## Credits & Attribution
+This repository was duplicated/forked from the original **Enhanced Registry** ([stremio-enhanced-registry](https://github.com/REVENGE977/stremio-enhanced-registry)). 
+
+Special thanks to [REVENGE977](https://github.com/REVENGE977) for creating the original repository, designing the registry layout, and establishing the community plugin registry system!

@@ -8,9 +8,6 @@ This is the official repository of community-made plugins/themes for Stremio Enh
 - Add your plugin/theme metadata to the registry.json file, following the existing JSON structure and examples.
 - Submit a Pull Request (PR) with your changes.
 
-Alternatively, just create a new issue providing the metadata of your plugin/theme and I'll add it for you.
-If you need help contact me on [Discord](https://discord.gg/jDsgcehrp7).
-
 ### Submitting guidelines:
 - No malicious or harmful code allowed. Any attempts to submit malicious content will result in a permanent block.
 - Code must be clear and readable. Obfuscated or intentionally confusing code will **not** be accepted.

@@ -1,7 +1,7 @@
-<h1 align="center">Stremio Enhanced Registry</h1>
+<h1 align="center">Stremio Lightning Registry</h1>
 
 ## What is this repository for?
-This is the official repository of community-made plugins/themes for Stremio Enhanced. Here you can submit your own plugin/theme to appear in Stremio Enhanced in the browse section of plugins/themes.
+This is the official repository of community-made plugins/themes for Stremio Lightning. Here you can submit your own plugin/theme to appear in Stremio Lightning in the browse section of plugins/themes.
 
 ## How do I submit my plugin/theme?
 - Fork or clone this repository.
@@ -24,9 +24,9 @@ This is the official repository of community-made plugins/themes for Stremio Enh
 If you find any harmful or malicious plugins, please report them by opening an issue in this repository with as much detail as possible.
 
 ## Notice
-This repository and Stremio Enhanced are not affiliated in any way with Stremio.
+This repository and Stremio Lightning are not affiliated in any way with Stremio.
 
 ## Credits & Attribution
-This repository was duplicated/forked from the original **Enhanced Registry** ([stremio-enhanced-registry](https://github.com/REVENGE977/stremio-enhanced-registry)). 
+This repository was forked from the original **Enhanced Registry** ([stremio-enhanced-registry](https://github.com/REVENGE977/stremio-enhanced-registry)). 
 
 Special thanks to [REVENGE977](https://github.com/REVENGE977) for creating the original repository, designing the registry layout, and establishing the community plugin registry system!

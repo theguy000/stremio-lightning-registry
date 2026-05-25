@@ -1,12 +1,12 @@
 {
   "plugins": [
       {
-        "name": "Stremio AniSkip",
-        "author": "REVENGE977",
-        "description": "A plugin that integrates the AniSkip API into Stremio to automatically skip openings and endings when watching anime.",
+        "name": "AniSkip v2",
+        "author": "theguy000",
+        "description": "Skip anime openings, endings, and recaps automatically or with a popup using AniSkip v2 API. Supports IMDb and Kitsu metadata with season-aware MAL ID resolution via Jikan's relation chain.",
         "version": "1.0.0",
-        "repo": "https://github.com/REVENGE977/stremio-aniskip",
-        "download": "https://raw.githubusercontent.com/REVENGE977/stremio-aniskip/refs/heads/main/dist/AniSkip.plugin.js"
+        "repo": "https://github.com/theguy000/stremio-aniskip-v2",
+        "download": "https://raw.githubusercontent.com/theguy000/stremio-aniskip-v2/refs/heads/main/aniskip-v2.plugin.js"
       },
       {
         "name": "TheIntroDB",

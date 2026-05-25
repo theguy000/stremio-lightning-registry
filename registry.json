@@ -6,6 +6,7 @@
         "description": "Skip anime openings, endings, and recaps automatically or with a popup using AniSkip v2 API. Supports IMDb and Kitsu metadata with season-aware MAL ID resolution via Jikan's relation chain.",
         "version": "1.0.0",
         "repo": "https://github.com/theguy000/stremio-aniskip-v2",
+        "preview": "https://raw.githubusercontent.com/theguy000/stremio-aniskip-v2/refs/heads/main/assets/icon.png",
         "download": "https://raw.githubusercontent.com/theguy000/stremio-aniskip-v2/refs/heads/main/aniskip-v2.plugin.js"
       },
       {
